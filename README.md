@@ -123,6 +123,9 @@ Instruction pour jouer une pièce.
 `[x]` et `[y]` sont les coordonnées de la pièce.  
 `[rotation]` est l'angle de rotation de la pièce. (0, 90, 180 ou 270 clockwise)  
 
+La rotation se fait par rapport au centre de la pièce.
+La position placée est le centre de la pièce.
+
 Réponse :  
 ```
 DONE\n
