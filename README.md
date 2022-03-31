@@ -121,7 +121,7 @@ Représentation de l'état de la pièce dans votre inventaire.
 Instruction pour jouer une pièce.  
 `[PIECE]` est le numéro de la pièce.  
 `[x]` et `[y]` sont les coordonnées de la pièce.  
-`[rotation]` est l'angle de rotation de la pièce.  
+`[rotation]` est l'angle de rotation de la pièce. (0, 90, 180 ou 270 clockwise)  
 
 Réponse :  
 ```
